@@ -1,0 +1,97 @@
+html{
+	background-color: #D3DAD9;
+}
+
+table{
+	text-align: center;
+	margin: auto;
+}
+
+.labyrintheInfo{
+	background-color: #0AA993;
+	border: 8px solid black;
+	padding: 5px;
+	width: 800px;
+	text-align: center;
+	color: blue;
+	font-size: 40px;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.plateauLabyrinthe{
+	background-color: blue;
+	border: 10px solid black;
+	width: 600px;
+	text-align: center;
+}
+
+.caseTableau{
+	background-color: yellow;
+	height: 500px;
+}
+
+.createGame{
+	/*couleur*/
+	background: black;
+	color: blue;
+	
+	/*taille*/
+	height: 30px;
+	width: 200px;
+	
+	/*positionner*/
+	position: absolute;
+	left: 85%;
+	top: 40%;
+	transform: translate(-50%, -50%);
+}
+
+.generateGame{
+	/*couleur*/
+	background: black;
+	color: blue;
+	
+	/*taille*/
+	height: 30px;
+	width: 200px;
+	
+	/*positionner*/
+	position: absolute;
+	left: 85%;
+	top: 60%;
+	transform: translate(-50%, -50%);
+}
+
+.remplirAll{
+	/*couleur*/
+	background: black;
+	color: blue;
+	
+	/*taille*/
+	height: 30px;
+	width: 200px;
+	
+	/*positionner*/
+	position: absolute;
+	left: 15%;
+	top: 40%;
+	transform: translate(-50%, -50%);
+}
+
+.viderAll{
+	/*couleur*/
+	background: black;
+	color: blue;
+	
+	/*taille*/
+	height: 30px;
+	width: 200px;
+	
+	/*positionner*/
+	position: absolute;
+	left: 15%;
+	top: 60%;
+	transform: translate(-50%, -50%);
+}
